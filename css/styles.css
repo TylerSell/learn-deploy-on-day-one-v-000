@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#tyler-sell-cover {
+    background-image: url("https://imgur.com/vMIc3eA");
+  }
+  
+#tyler-sell-card {
+    background-image: url("https://imgur.com/4CVyTer");
+  }
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
